@@ -12,13 +12,15 @@ Traçar perfis de consumo regionais.
 E com tudo isso, prever tendências para o ano de 2017, para permitir que a Ice planeja melhores campanhas publicitárias.
 
 # Resultados:
-Após a análise do dataframe, foi tirado a conclusão das estratégias de marketing que a Ice deverá seguir para cada uma das três regiões:
+Após a análise do dataframe, foi tirado as seguintes conclusões sobre as preferências do público em cada uma das três regiões:
 
 Os usuários da América do Norte preferem principalmente jogos dos Gêneros de ação, tiro e esporte, geralemente de classificações indicativas de M, E, e E10+ e jogam mais nos consoles da Sony e da Microsoft.
 
 Os usuários da Europa tem um gosto similar aos norte-americanos tanto nos gêneros quanto nas classificações indicativas, a diferença seria que eles possuem uma preferência maior aos consoles da Sony.
 
 O japão é entre eles a região mais diferente, com usuários preferindo jogos do gênero de RPG, ação e luta, sendo esses jogos mais para as classificações T e E, além de terem preferência aos consoles da Nintendo e da Sony.
+
+Essas preferências são a chave para desenvolver as estratégias de marketing que a Ice deverá seguir para ter um bom ano de lucros.
 
 # Tecnologia usadas:
 Python
